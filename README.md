@@ -1,7 +1,13 @@
 <h1 align="center">Hey 👋 I'm Shubham Bhoye</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=18+y%2Fo+Developer;IT+Student+%40+Mumbai+University;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;I+use+VIM+btw+%F0%9F%98%8E" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;IT+Student+%40+Mumbai+University;React+%7C+Node+%7C+MongoDB;I+use+VIM+btw+%F0%9F%98%8E" />
+</p>
+
+---
+
+<p align="center">
+  <b>18 y/o Developer from India 🇮🇳</b>
 </p>
 
 ---
@@ -21,5 +27,5 @@ const shubham = {
   },
   tools: ["Git", "GitHub", "Linux", "VIM"],
   currentlyLearning: "Advanced React patterns & Backend Architecture",
-  philosophy: "Write code that works. Then make it beautiful."
+  philosophy: "Build. Break. Debug. Repeat."
 };
